@@ -1,2 +1,2 @@
-# BSIT_2B
+# BSIT_2D
 This a step-by-step guide on how to create a simple repository.
